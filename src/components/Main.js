@@ -3,9 +3,9 @@
 function Main() {
     return (
       <>
-        <video class="body-overlay" muted autoplay loop>
+        {/* <video class="body-overlay" muted autoplay loop>
             <source src="./assets/images/video1.mp4" type="video/mp4"/>
-        </video>
+        </video> */}
 
         {/* <!-- Preloader --> */}
         <div class="page-loader">
