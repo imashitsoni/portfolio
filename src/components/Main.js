@@ -347,13 +347,25 @@ function Main() {
                                         <i class="las la-bezier-curve"></i>
                                         <h2>Website Design & Development</h2>
                                         <p>I have successfully designed and developed numerous websites using the Shopify platform.</p>
-                                        <span class="projects">40+ Projects</span>
+                                        <span class="projects">35+ Projects</span>
                                     </div>
                                     <div class="service-item scroll-animation" data-animation="fade_from_bottom">
                                         <i class="las la-bezier-curve"></i>
                                         <h2>SEO & Speed Improvements</h2>
-                                        <p>I specialize in enhancing Search Engine Optimization (SEO) strategies and optimizing website speed to elevate digital performance</p>
+                                        <p>I specialize in enhancing Search Engine Optimization (SEO) strategies and optimizing website speed to elevate digital performance.</p>
                                         <span class="projects">5+ Projects</span>
+                                    </div>
+                                    <div class="service-item scroll-animation" data-animation="fade_from_bottom">
+                                        <i class="las la-bezier-curve"></i>
+                                        <h2>Pixel Tracking Integration - Facebook & Tiktok</h2>
+                                        <p>Orchestrated seamless integration of Facebook and TikTok pixel tracking into various websites.</p>
+                                        <span class="projects">4+ Projects</span>
+                                    </div>
+                                    <div class="service-item scroll-animation" data-animation="fade_from_bottom">
+                                        <i class="las la-bezier-curve"></i>
+                                        <h2>A/B Testing Experiences</h2>
+                                        <p>Formulated and executed tailored experiences for A/B testing across diverse e-commerce platforms.</p>
+                                        <span class="projects">3+ Projects</span>
                                     </div>
                                 </div>
             
