@@ -280,16 +280,22 @@ function Main() {
             
                                 <div class="resume-timeline">
                                     <div class="item scroll-animation" data-animation="fade_from_right">
-                                        <span class="date">2021 - Present</span>
-                                        <h2>Lead Engineer & Project Manager</h2>
+                                        <span class="date">May 2023 - Present</span>
+                                        <h2>Lead Engineer</h2>
                                         <p>Techinfini Solutions</p>
+                                    </div>
+                                    <div class="item scroll-animation" data-animation="fade_from_right">
+                                        <span class="date">May 2022 - Apr 2023</span>
                                         <h2>Sr. Software Engineer</h2>
                                         <p>Techinfini Solutions</p>
+                                    </div>
+                                    <div class="item scroll-animation" data-animation="fade_from_right">
+                                        <span class="date">May 2021 - Apr 2022</span>
                                         <h2>Software Engineer</h2>
                                         <p>Techinfini Solutions</p>
                                     </div>
                                     <div class="item scroll-animation" data-animation="fade_from_right">
-                                        <span class="date">2017 - 2020</span>
+                                        <span class="date">July 2017 - Mar 2021</span>
                                         <h2>Software Engineer</h2>
                                         <p>Rama Technologies</p>
                                         <h2>Web Developer</h2>
