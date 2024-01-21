@@ -184,9 +184,9 @@ function Main() {
                         <h2 class="email">imashitsoni@gmail.com</h2>
                         <h2 class="address">Indore, India</h2>
                         <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
-                            {/* <!-- <li>
+                            <li>
                                 <a href="https://twitter.com/imashitsoni" target="_blank" rel="noreferrer"><i class="lab la-twitter"></i></a>
-                            </li> --> */}
+                            </li>
                             <li>
                                 <a href="https://www.linkedin.com/in/imashitsoni/" target="_blank" rel="noreferrer"><i class="lab la-linkedin"></i></a>
                             </li>
