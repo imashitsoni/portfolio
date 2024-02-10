@@ -145,7 +145,7 @@ function Main() {
             <div class="sidebar-header d-flex align-items-center justify-content-between">
                 {/* <!-- <img src="./assets/images/logo.png" alt="Logo"> --> */}
                 <h1 class="box-title">Ashit</h1>
-                <span class="designation">React & Shopify Developer</span>
+                <span class="designation">Software Engineer</span>
             </div>
             <img class="me" src="./assets/images/My Profile Pic-circle.png" alt="Me"/>
             <h2 class="email">imashitsoni@gmail.com</h2>
@@ -178,7 +178,7 @@ function Main() {
                         <div class="sidebar-header d-flex align-items-center justify-content-between">
                             {/* <!-- <img src="./assets/images/logo.png" alt="Logo"> --> */}
                             <h1 class="box-title">Ashit Soni</h1>
-                            {/* <!-- <span class="designation">React & Shopify Developer</span> --> */}
+                            {/* <!-- <span class="designation">Software Engineer</span> --> */}
                         </div>
                         <img class="me" src="./assets/images/My Profile Pic-circle.png" alt="Me"/>
                         <h2 class="email">imashitsoni@gmail.com</h2>
@@ -213,7 +213,7 @@ function Main() {
                                         <i class="las la-home"></i> Introduce
                                     </h4>
                                     <h1 class="scroll-animation" data-animation="fade_from_bottom">
-                                        Say Hi from <span>Ashit</span>, React & Shopify Developer
+                                        Say Hi from <span>Ashit</span>, Software Engineer
                                     </h1>
                                 </div>
                                 <p class="scroll-animation" data-animation="fade_from_bottom">
@@ -281,7 +281,7 @@ function Main() {
                                 <div class="resume-timeline">
                                     <div class="item scroll-animation" data-animation="fade_from_right">
                                         <span class="date">May 2023 - Present</span>
-                                        <h2>Lead Engineer</h2>
+                                        <h2>Sr. Software Engineer Team Lead</h2>
                                         <p>Techinfini Solutions</p>
                                     </div>
                                     <div class="item scroll-animation" data-animation="fade_from_right">
@@ -403,7 +403,7 @@ function Main() {
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                         <div class="skill">
                                             <div class="skill-inner">
-                                                <img src="./assets/images/shopify.png" alt="Framer"/>
+                                                <img src="./assets/images/shopify.png" alt="Shopify"/>
                                                 <h1 class="percent">Shopify</h1>
                                             </div>
                                             {/* <!-- <p class="name">Shopify</p> --> */}
@@ -412,7 +412,7 @@ function Main() {
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_top">
                                         <div class="skill">
                                             <div class="skill-inner">
-                                                <img src="./assets/images/javascript.png" alt="Webflow"/>
+                                                <img src="./assets/images/javascript.png" alt="Javascript"/>
                                                 <h1 class="percent">Javascript</h1>
                                             </div>
                                             {/* <!-- <p class="name">Javascript</p> --> */}
@@ -421,7 +421,7 @@ function Main() {
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_right">
                                         <div class="skill">
                                             <div class="skill-inner">
-                                                <img src="./assets/images/html.png" alt="React"/>
+                                                <img src="./assets/images/html.png" alt="HTML"/>
                                                 <h1 class="percent">HTML</h1>
                                             </div>
                                             {/* <!-- <p class="name">HTML</p> --> */}
@@ -430,7 +430,7 @@ function Main() {
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
                                         <div class="skill">
                                             <div class="skill-inner">
-                                                <img src="./assets/images/css.png" alt="WordPress"/>
+                                                <img src="./assets/images/css.png" alt="CSS"/>
                                                 <h1 class="percent">CSS</h1>
                                             </div>
                                             {/* <!-- <p class="name">CSS</p> --> */}
@@ -439,7 +439,7 @@ function Main() {
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                         <div class="skill">
                                             <div class="skill-inner">
-                                                <img src="./assets/images/sass.png" alt="Laravel/PHP"/>
+                                                <img src="./assets/images/sass.png" alt="Sass"/>
                                                 <h1 class="percent">Sass</h1>
                                             </div>
                                             {/* <!-- <p class="name">Sass</p> --> */}
@@ -448,7 +448,7 @@ function Main() {
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                         <div class="skill">
                                             <div class="skill-inner">
-                                                <img src="./assets/images/bootstrap.png" alt="Laravel/PHP"/>
+                                                <img src="./assets/images/bootstrap.png" alt="Bootstrap"/>
                                                 <h1 class="percent">Bootstrap</h1>
                                             </div>
                                             {/* <!-- <p class="name">Bootstrap</p> --> */}
@@ -457,7 +457,7 @@ function Main() {
                                     <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                         <div class="skill">
                                             <div class="skill-inner">
-                                                <img src="./assets/images/jquery.png" alt="Laravel/PHP"/>
+                                                <img src="./assets/images/jquery.png" alt="Jquery"/>
                                                 <h1 class="percent">Jquery</h1>
                                             </div>
                                             {/* <!-- <p class="name">Jquery</p> --> */}
