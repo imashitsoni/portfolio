@@ -754,7 +754,7 @@ main.drake-main {
     color: var(--primary_color);
 }
 .hero-section .hero-content > p {
-    max-width: 540px;
+    max-width: 600px;
     margin-bottom: 31px;
 }
 .hero-section .hero-content .go-to-project-btn {
