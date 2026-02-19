@@ -75,7 +75,7 @@ ul {
     color: #000000;
     display: block;
     text-align: center;
-    padding: 11px 58px 10px 58px;
+    padding: 10px 14px;
     display: inline-flex;
     align-items: center;
     border-radius: 30px;
@@ -85,6 +85,7 @@ ul {
     transition: .3s;
     cursor: pointer;
     border: 2px solid var(--primary_color);
+    font-size: 13px;
 }
 .theme-btn i {
     font-size: 24px;
@@ -694,10 +695,11 @@ main.drake-main {
     font-weight: 400;
 }
 .left-sidebar h2 {
-    font-size: 24px;
+    font-size: 16px;
     color: #fff;
     text-align: center;
     font-weight: 300;
+    margin-bottom: 15px;
 }
 .left-sidebar .address {
     margin-bottom: 30px;
@@ -754,7 +756,7 @@ main.drake-main {
     color: var(--primary_color);
 }
 .hero-section .hero-content > p {
-    max-width: 600px;
+    max-width: 710px;
     margin-bottom: 31px;
 }
 .hero-section .hero-content .go-to-project-btn {
@@ -932,13 +934,18 @@ body .body-overlay {
     padding-top: 90px;
     padding-bottom: 90px;
 }
+.services-items {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
 .services-items .service-item {
     border: 1px solid #565656;
     border-radius: 20px;
     transition: .3s;
     position: relative;
-    padding: 44px 48px 41px 48px;
-    margin-bottom: 10px;
+    padding: 44px 32px 42px 32px;
+    margin-bottom: 0;
 }
 .services-items .service-item:last-child {
     margin-bottom: 0;
@@ -978,7 +985,7 @@ body .body-overlay {
     font-size: 30px;
     color: var(--primary_color);
     top: 45px;
-    right: 50px;
+    right: 35px;
 }
 
 
@@ -989,21 +996,28 @@ body .body-overlay {
     padding-bottom: 40px;
 }
 .skills .skill {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 .skills .skill .skill-inner {
     border: 2px solid #565656;
-    border-radius: 85px;
-    padding: 54px 0 48px 0;
+    border-radius: 12px;
+    padding: 36px 20px 36px 20px;
     margin-bottom: 20px;
     transition: .3s;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .skills .skill:hover .skill-inner {
     border-color: var(--primary_color);
 }
-.skills .skill .skill-inner img {
+.skills .skill .skill-inner .skill-icon {
+    font-size: 48px;
+    color: var(--primary_color);
     display: block;
-    margin: auto auto 29px auto;
+    margin: 0 auto 20px auto;
 }
 .skills .skill .skill-inner h1 {
     font-size: 22px;
@@ -1082,7 +1096,63 @@ body .body-overlay {
 .portfolio-items .portfolio-item:hover h2 a {
     border-color: #ffffff;
 }
+.project-slider .row {
+    row-gap: 20px;
+}
+.project-slider .content {
+    position: relative;
+}
+.project-slider .screen {
+    display: block;
+    width: 100%;
+    max-width: 370px;
+    height: 480px;
+    overflow: hidden;
+    position: relative;
+    border: 2px solid #b3b3b3;
+    border-radius: 1px;
+    margin: 0 auto;
+}
+.project-slider .screen img {
+    /* bottom: -1210px; */
+    /* bottom: -726px; */
+    top: 0px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    z-index: 0;
+    margin:0;
+    padding:0;
+    -webkit-transition: top 11s;
+    -moz-transition: top 11s;
+    -ms-transition: top 11s;
+    -o-transition: top 11s;
+    transition: top 11s;
+}
+.project-slider .screen:hover img {
+    /* bottom: 0; */
+    top: -726px;
+    -webkit-transition: all 11s;
+    -moz-transition: all 11s;
+    -ms-transition: all 11s;
+    -o-transition: all 11s;
+    transition: all 11s;
+}
+@media (max-width: 550px) {
+    .project-slider .content {
+        padding: 0 5px;
+    }
+    .project-slider .screen {
+        height: 250px;
+    }
+}
 
+.about-area .about-content p a {
+    color: #28e98c;
+}
+.about-area .about-content p a:hover {
+    color: #1ab96c;
+}
 
 
 

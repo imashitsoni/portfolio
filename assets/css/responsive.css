@@ -86,13 +86,14 @@
     }
 
     .services-items {
-        display: flex;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
         gap: 15px;
     }
     .services-items .service-item {
         margin-bottom: 0;
         padding: 30px 30px 30px 30px;
-        width: 33.3333%;
+        width: 100%;
     }
     .services-items .service-item h2 {
         font-size: 20px;
